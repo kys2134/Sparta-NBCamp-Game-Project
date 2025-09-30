@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Project/Assets/Data/Character/Enemy/Boss/ActionData/S0101_Combo0_Data.asset.meta
+guid: 696df1d6f6e3ec647b58115075c3cdf1
+========
+guid: 52fccd532d72e3149a07597272b40383
+>>>>>>>> develop:Project/Assets/Data/Character/Enemy/Boss/ActionData/S0201_Data.asset.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

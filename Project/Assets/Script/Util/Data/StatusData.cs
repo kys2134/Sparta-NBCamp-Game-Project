@@ -9,5 +9,6 @@ namespace Backend.Util.Data
         [field: SerializeField] public string Name { get; private set; }
         [field: SerializeField] public float HealthPoint { get; private set; }
         [field: SerializeField] public float Speed { get; private set; }
+        [field: SerializeField] public float Damage { get; private set; }
     }
 }

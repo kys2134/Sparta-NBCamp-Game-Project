@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4857cae125b3ac042904f542b456665e, type: 3}
+  m_Name: Item_Weapon_
+  m_EditorClassIdentifier: 
+  _id: 4
+  _name: zxca
+  _tooltip: zxca
+  _iconSprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  _dropItemPrefab: {fileID: 7067625692380236821, guid: d781f8beec88c814eb3000241f7a777e, type: 3}
+  _maxDurability: 100
+  _damage: 1

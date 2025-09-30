@@ -16,7 +16,45 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: 3dfd7ffa309e43448a3be0d829fbc2ec
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 4e52a157da94c7e498c807073ddbca7a
+    m_Address: Assets/Prefab/Sphere.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aaa
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e336ac7efa5406c45ac27370ecb1e11b
+    m_Address: Assets/Prefab/Capsule.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aaa
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 492d860dfd502f04082b2cbd35256c11
+    m_Address: Assets/Prefab/Plane.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - aaa
+    - bbb
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 50961dd33b52dc04ea412791d378ade3
+    m_Address: Assets/Prefab/Cube.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbb
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76e943ea9f2a845409d7a847fecf1ff6
+    m_Address: Assets/Prefab/Cylinder.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - bbb
+    - ccc
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e1f4d78a044fee47bb849c3f1ecf940
+    m_Address: Assets/Prefab/Quad.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ccc
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 2fc3a041b03efa34d916490757ce4174, type: 2}
   m_SchemaSet:

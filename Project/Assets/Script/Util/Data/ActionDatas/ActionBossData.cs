@@ -6,9 +6,9 @@ namespace Backend.Util.Data.ActionDatas
 {
     public enum RangeCheck
     {
-        CloseRange,
-        MidRange,
-        LongRanged,
+        CloseRange = 0,
+        MidRange = 1,
+        LongRanged = 2,
         None = 999
     }
 
